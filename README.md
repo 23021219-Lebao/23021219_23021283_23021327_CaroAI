@@ -1,6 +1,6 @@
-# Đồ án: Trí tuệ nhân tạo cho trò chơi Caro (Caro AI)
+# Project: Xây dựng trò chơi cờ Caro bằng thuật toán Minimax và Alpha-Beta
 
-Dự án phát triển ứng dụng trò chơi Cờ Caro đối kháng trực tiếp (Người vs Máy), tích hợp Trí tuệ nhân tạo dựa trên thuật toán tìm kiếm quyết định Minimax và Alpha-Beta Pruning. 
+Dự án phát triển trò chơi Cờ Caro đối kháng trực tiếp (Người vs Máy), tích hợp Trí tuệ nhân tạo dựa trên thuật toán tìm kiếm quyết định Minimax và Alpha-Beta Pruning. 
 
 ## 1. Thành viên nhóm thực hiện
     Lê Quốc Bảo      - 23021219
