@@ -3,12 +3,12 @@
 Dự án phát triển ứng dụng trò chơi Cờ Caro đối kháng trực tiếp (Người vs Máy), tích hợp Trí tuệ nhân tạo dựa trên thuật toán tìm kiếm quyết định Minimax và cơ chế cắt tỉa Alpha-Beta Pruning. 
 
 ## 1. Thành viên nhóm thực hiện
-    [Lê Quốc Bảo] - [23021219]
-    [Phạm Việt Hưng] - [23021283]
-    [Trần Duy Phúc] - [23021327]
+    Lê Quốc Bảo      - 23021219
+    Phạm Việt Hưng   - 23021283
+    Trần Duy Phúc    - 23021327
 
 ## 2. Thông số kỹ thuật & Quy tắc trò chơi
-- **Kích thước bàn cờ:** Hệ thống vận hành trên không gian ma trận $9 \times 9$.
+- **Kích thước bàn cờ:** $9 \times 9$.
 - **Luật chiến thắng:** Áp dụng luật cờ Caro 4 quân tiêu chuẩn. Người chơi (X) hoặc Máy (O) giành chiến thắng ngay khi thiết lập được chuỗi **tối thiểu 4 quân liên tiếp** (ngang, dọc, chéo). Không xét điều kiện chặn hai đầu.
 - **Môi trường & Công nghệ:** - Ngôn ngữ lập trình: **Python 3.8+**.
   - Không yêu cầu cài đặt thư viện bên ngoài. Hệ thống sử dụng hoàn toàn các thư viện chuẩn (Standard Libraries) của Python bao gồm: `tkinter` (xây dựng GUI), `time`, `math`, `copy`.
