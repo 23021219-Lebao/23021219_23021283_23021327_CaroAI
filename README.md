@@ -10,7 +10,8 @@ Dự án phát triển ứng dụng trò chơi Cờ Caro đối kháng trực ti
 ## 2. Thông số kỹ thuật & Quy tắc trò chơi
 - **Kích thước bàn cờ:** $9 \times 9$.
 - **Luật chơi:** Áp dụng luật cờ Caro 4 quân tiêu chuẩn. Người chơi (X) hoặc Máy (O) giành chiến thắng ngay khi thiết lập được chuỗi tối thiểu 4 quân liên tiếp (ngang, dọc, chéo). Không xét luật chặn hai đầu. Nếu bàn cờ đầy và không có người thắng thì kết quả là hòa.
-- **Môi trường & Công nghệ:** - Ngôn ngữ lập trình: **Python 3.8+**.
+- **Môi trường & Công nghệ:**
+  - Ngôn ngữ lập trình: **Python 3.8+**.
   - Không yêu cầu cài đặt thư viện bên ngoài. Hệ thống sử dụng hoàn toàn các thư viện chuẩn (Standard Libraries) của Python bao gồm: `tkinter`, `time`, `math`, `copy`.
 
 ## 3. Cấu trúc mã nguồn (Repository Structure)
