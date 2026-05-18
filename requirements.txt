@@ -1,0 +1,2 @@
+# Dự án chỉ sử dụng các thư viện tiêu chuẩn của Python (standard libraries): tkinter, time, math, copy.
+# Không cần cài đặt thêm package bên ngoài.
